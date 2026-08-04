@@ -3,7 +3,7 @@
    Sumiksha Portfolio Admin Panel
    ============================================================ */
 
-/* ---- CONFIG ---- */
+/* ---- CONFIG ---- */ 
 // Change this password to whatever you want
 const ADMIN_PASSWORD = 'sumiksha2024';
 
