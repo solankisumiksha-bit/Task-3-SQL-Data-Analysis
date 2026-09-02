@@ -6,7 +6,7 @@ This project demonstrates SQL-based data analysis using a simulated E-Commerce d
 
 ## 🎯 Objective
 
-The main objective of this project is to learn and demonstrate:
+The main objective of this project is to learn and demonstrate: 
 
 * Data retrieval using SELECT
 * Filtering using WHERE
